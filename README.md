@@ -1,2 +1,2 @@
 # Location_Tracker
-Android app that tracks your daily travel path!
+Welcome to our Android app that tracks your daily travel path! This app was developed using Android Studio, Google Maps API, Google Firebase, Google Firestore, and Java. With this app, you can easily track your activity and see your travel history displayed as a trail on the map. All of your travel data is securely stored using Google Firestore and authenticated with Google Firebase.
